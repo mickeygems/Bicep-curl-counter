@@ -43,14 +43,3 @@ Run the application:
 After setting up the dependencies, you can start the system with the following command:
  ```bash
  python bicep_curl_counter.py
-
-
-
-
-
-
-
-
-
-
-
